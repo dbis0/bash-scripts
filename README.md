@@ -13,3 +13,5 @@ chmod +x smap.sh
 
 Step 4:
 ./smap.sh [Target_IP]
+
+![PoC](https://i.ibb.co/sbtTy14/Smap.jpg)
